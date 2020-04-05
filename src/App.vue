@@ -1,5 +1,6 @@
 <template>
   <div class="app">
+   
 <!-- 出口 -->
 <router-view></router-view>
   </div>
@@ -13,5 +14,5 @@ export default {
 </script>
 
 <style lang="less">
-
+@import url(~@/style/base.css);
 </style>
